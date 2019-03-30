@@ -1,5 +1,5 @@
 # -*- coding: utf8 -*-
-#author :-   Jabed
+#author :-   Md Jabed Ali(jabed)
 import requests
 
 url_test = 'https://www.seoinc.com'
